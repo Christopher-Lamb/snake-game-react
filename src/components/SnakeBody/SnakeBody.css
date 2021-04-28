@@ -1,0 +1,6 @@
+.snake-body {
+  height: 13px;
+  width: 13px;
+  position: absolute;
+  background: rgb(14, 160, 14);;
+}

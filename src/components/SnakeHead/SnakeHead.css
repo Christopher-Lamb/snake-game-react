@@ -1,0 +1,7 @@
+#snake-head {
+  height: 13px;
+  width: 13px;
+  position: absolute;
+  z-index: 1;
+  background: rgb(22, 190, 22);
+}
